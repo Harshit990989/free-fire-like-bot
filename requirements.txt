@@ -1,0 +1,9 @@
+Flask[async]
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
+cachetools==5.3.1
+waitress
